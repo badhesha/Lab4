@@ -8,7 +8,7 @@ to see if the user input matches the answer. If so, print "Correct!", then termi
 with a break statment.
 
 If the user could not guess the correct answer within the max_tries, then print
-"You have used up your allotment of guesses.", then print "The correct answer is 'California.'"
+"You have used up your allotment of guesses.", then print "The correct answer is 'Sacromento.'"
 
 """
 
